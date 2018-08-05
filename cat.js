@@ -9,7 +9,7 @@ Cat.prototype.eat = function(mouse){
 	this.stomach.push(mouse);
 
 };
-let tom = new Cat(tom,2);
+let tom = new Cat('tom',2);
 
 //
 
