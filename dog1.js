@@ -1,3 +1,5 @@
+let Cat = require('./cat.js');
+
 function() Dog1{
 	this.stomach = [];
 }

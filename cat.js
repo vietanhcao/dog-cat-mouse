@@ -16,4 +16,4 @@ let tom = new Cat(tom,2);
 tom.eat(Mouse);
 
 
-module.
+module.exports = Cat;
